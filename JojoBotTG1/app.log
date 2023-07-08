@@ -1,0 +1,3 @@
+2023-07-07 15:20:11,379 INFO c.e.J.JojoBotTg1Application [main] Starting JojoBotTg1Application using Java 20.0.1 with PID 455 (/Users/jojomac/Desktop/JojoBotTG1/target/classes started by jojomac in /Users/jojomac/Desktop/JojoBotTG1)
+2023-07-07 15:20:11,382 INFO c.e.J.JojoBotTg1Application [main] No active profile set, falling back to 1 default profile: "default"
+2023-07-07 15:20:12,794 INFO c.e.J.JojoBotTg1Application [main] Started JojoBotTg1Application in 1.551 seconds (process running for 1.898)
